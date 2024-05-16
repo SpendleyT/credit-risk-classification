@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Calculation
 
 
 The Task
